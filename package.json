@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "pkg-dir": "^8.0.0"
+  }
+}
